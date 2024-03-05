@@ -1,2 +1,6 @@
-# tl-ca-calculator-template
-Template for lesson GitHub for TL-CA
+# tl-2023-05-calculator
+TL-CA calculator template
+
+## Run calculator
+
+    python main.py
